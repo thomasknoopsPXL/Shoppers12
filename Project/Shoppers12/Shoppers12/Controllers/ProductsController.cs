@@ -59,26 +59,57 @@ namespace Shoppers12.Controllers
             return View(product);
         }
 
-        // GET: ProductsController/Edit/5
-        public ActionResult Edit(int id)
+        // GET: Artikels/Edit/5
+        public async Task<IActionResult> Edit(int? id)
         {
-            return View();
+            if (id == null || _context.Products == null)
+            {
+                return NotFound();
+            }
+
+            var product = await _context.Products.FindAsync(id);
+            if (product == null)
+            {
+                return NotFound();
+            }
+            return View(product);
         }
 
-        // POST: ProductsController/Edit/5
+        // POST: Artikels/Edit/5
+        // To protect from overposting attacks, enable the specific properties you want to bind to.
+        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit(int id, IFormCollection collection)
+        public async Task<IActionResult> Edit(int id, [Bind("ArtikelId,Naam")] Product product)
         {
-            try
+            if (id != product.ProductId)
             {
+                return NotFound();
+            }
+
+            if (ModelState.IsValid)
+            {
+                try
+                {
+                    _context.Update(product);
+                    await _context.SaveChangesAsync();
+                }
+                catch (DbUpdateConcurrencyException)
+                {
+                    if (!ProductExists(product.ProductId))
+                    {
+                        return NotFound();
+                    }
+                    else
+                    {
+                        throw;
+                    }
+                }
                 return RedirectToAction(nameof(Index));
             }
-            catch
-            {
-                return View();
-            }
+            return View(product);
         }
+
 
         // GET: ProductsController/Delete/5
         public async Task<IActionResult> Delete(int? id)
@@ -115,6 +146,11 @@ namespace Shoppers12.Controllers
 
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
+        }
+
+        private bool ProductExists(int id)
+        {
+            return _context.Products.Any(e => e.ProductId == id);
         }
     }
 }

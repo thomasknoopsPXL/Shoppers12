@@ -3,8 +3,7 @@
 Evi: 28/02 15:20 
     Ik heb het originele project nog in de github laten staan langs het nieuwe project, omdat de changes in github allemaal in cache files stonden. 
 
-    Vragen: 
-    Wat moeten de models van properties hebben? Of mogen we creatief zijn? & Wat is een order line? 
+    Vragen:  --> Wat moeten de models van properties hebben? Of mogen we creatief zijn? & Wat is een order line? 
 
     De models zijn aangemaakt, de migratie is gelukt voor mij, haar het scaffolden van de controllers niet, idk wat hier het probleem is.
     Ik heb de views en controllers niet volledig kunnen scaffolden dus de views heb ik zelf gemaakt. 
@@ -12,7 +11,7 @@ Evi: 28/02 15:20
         Product:  (enkel admin kan create edit en delete doen)
             Index OK
             Create OK
-            Edit
+            Edit OK
             Delete OK
             Details  OK
         Orders:  (klanten zien enkel hun orders die ze al gemaakt hebben zien, ze maken deze automatisch door producten te kopen)

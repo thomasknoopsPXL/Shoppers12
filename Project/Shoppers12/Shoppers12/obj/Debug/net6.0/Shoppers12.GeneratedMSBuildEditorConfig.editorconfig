@@ -27,6 +27,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJMaW5lc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/School/PXL/Graduaat/2GPROA/Web/Project/Shoppers12/Project/Shoppers12/Shoppers12/Views/OrderLines/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJMaW5lc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/School/PXL/Graduaat/2GPROA/Web/Project/Shoppers12/Project/Shoppers12/Shoppers12/Views/OrderLines/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJMaW5lc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -37,6 +41,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/School/PXL/Graduaat/2GPROA/Web/Project/Shoppers12/Project/Shoppers12/Shoppers12/Views/Orders/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/School/PXL/Graduaat/2GPROA/Web/Project/Shoppers12/Project/Shoppers12/Shoppers12/Views/Orders/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/School/PXL/Graduaat/2GPROA/Web/Project/Shoppers12/Project/Shoppers12/Shoppers12/Views/Orders/Index.cshtml]
@@ -55,6 +63,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdENhdGVnb3JpZXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/School/PXL/Graduaat/2GPROA/Web/Project/Shoppers12/Project/Shoppers12/Shoppers12/Views/ProductCategories/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdENhdGVnb3JpZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/School/PXL/Graduaat/2GPROA/Web/Project/Shoppers12/Project/Shoppers12/Shoppers12/Views/ProductCategories/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdENhdGVnb3JpZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -69,6 +81,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/School/PXL/Graduaat/2GPROA/Web/Project/Shoppers12/Project/Shoppers12/Shoppers12/Views/Products/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/School/PXL/Graduaat/2GPROA/Web/Project/Shoppers12/Project/Shoppers12/Shoppers12/Views/Products/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/School/PXL/Graduaat/2GPROA/Web/Project/Shoppers12/Project/Shoppers12/Shoppers12/Views/Products/Index.cshtml]
