@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\School\\PXL\\Graduaat\\2GPROA\\Web\\Project\\Shoppers12\\Shoppers12\\Shoppers12\\Shoppers12.csproj": {}
+    "C:\\Github Repos\\Shoppers12\\Shoppers12\\Shoppers12\\Shoppers12.csproj": {}
   },
   "projects": {
-    "D:\\School\\PXL\\Graduaat\\2GPROA\\Web\\Project\\Shoppers12\\Shoppers12\\Shoppers12\\Shoppers12.csproj": {
+    "C:\\Github Repos\\Shoppers12\\Shoppers12\\Shoppers12\\Shoppers12.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\School\\PXL\\Graduaat\\2GPROA\\Web\\Project\\Shoppers12\\Shoppers12\\Shoppers12\\Shoppers12.csproj",
+        "projectUniqueName": "C:\\Github Repos\\Shoppers12\\Shoppers12\\Shoppers12\\Shoppers12.csproj",
         "projectName": "Shoppers12",
-        "projectPath": "D:\\School\\PXL\\Graduaat\\2GPROA\\Web\\Project\\Shoppers12\\Shoppers12\\Shoppers12\\Shoppers12.csproj",
-        "packagesPath": "C:\\Users\\evibo\\.nuget\\packages\\",
-        "outputPath": "D:\\School\\PXL\\Graduaat\\2GPROA\\Web\\Project\\Shoppers12\\Shoppers12\\Shoppers12\\obj\\",
+        "projectPath": "C:\\Github Repos\\Shoppers12\\Shoppers12\\Shoppers12\\Shoppers12.csproj",
+        "packagesPath": "C:\\Users\\thoma\\.nuget\\packages\\",
+        "outputPath": "C:\\Github Repos\\Shoppers12\\Shoppers12\\Shoppers12\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\evibo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\thoma\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -27,7 +27,7 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "C:\\Users\\evibo\\.nuget\\packages": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
