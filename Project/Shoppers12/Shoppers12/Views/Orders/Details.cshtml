@@ -11,14 +11,31 @@
     <hr />
     <dl class="row">
         <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.OrderLine)
+            @Html.DisplayNameFor(model => model.Products)
         </dt>
         <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.OrderLine)
+            @Html.DisplayFor(model => model.Products)
         </dd>
     </dl>
-</div>
-<div>
-    <a asp-action="Edit" asp-route-id="@Model?.OrderLine">Edit</a> |
-    <a asp-action="Index">Back to List</a>
+    <!-- A card is going to be made to hold all info, and have a button to redirect to products list, those redirect individually to product details -->
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.OrderDate)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.OrderDate)
+        </dd>
+    </dl>
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.PromisedDeliveryDate)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.PromisedDeliveryDate)
+        </dd>
+    </dl>
+    <div>
+        <a asp-action="Edit" asp-route-id="@Model?.OrderLine">Edit</a> |
+        <a asp-action="Index">Back to List</a>
+    </div>
 </div>

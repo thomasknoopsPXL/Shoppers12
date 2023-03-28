@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using Shoppers12.Data;
 using Shoppers12.Models.Data;
@@ -42,6 +43,7 @@ namespace Shoppers12.Controllers
         // GET: ProductsController/Create
         public ActionResult Create()
         {
+            ViewData["ProductCategories"] = new SelectList(_context.ProductCategories, "ProductCategoryId", "ProductCategoryName");
             return View();
         }
 
@@ -80,9 +82,9 @@ namespace Shoppers12.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("ArtikelId,Naam")] Product product)
+        public async Task<IActionResult> Edit(int id, [Bind("ProductId,ProductCategoryId,ProductName,ProductDescription,ProductPrice")] Product product)
         {
-            if (id != product.ProductId)
+            if (id == null || _context.Products == null)
             {
                 return NotFound();
             }
