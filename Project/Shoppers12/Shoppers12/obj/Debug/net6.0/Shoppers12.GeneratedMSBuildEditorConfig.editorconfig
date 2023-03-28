@@ -5,100 +5,101 @@ build_property.UsingMicrosoftNETSdkWeb = true
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Shoppers12
 build_property.RootNamespace = Shoppers12
-build_property.ProjectDir = D:\School\PXL\Graduaat\2GPROA\Web\Project\Shoppers12\Project\Shoppers12\Shoppers12\
+build_property.ProjectDir = C:\Github Repos\Shoppers12\Project\Shoppers12\Shoppers12\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\School\PXL\Graduaat\2GPROA\Web\Project\Shoppers12\Project\Shoppers12\Shoppers12
+build_property.MSBuildProjectDirectory = C:\Github Repos\Shoppers12\Project\Shoppers12\Shoppers12
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/School/PXL/Graduaat/2GPROA/Web/Project/Shoppers12/Project/Shoppers12/Shoppers12/Views/Home/Index.cshtml]
+[C:/Github Repos/Shoppers12/Project/Shoppers12/Shoppers12/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/School/PXL/Graduaat/2GPROA/Web/Project/Shoppers12/Project/Shoppers12/Shoppers12/Views/Home/Privacy.cshtml]
+[C:/Github Repos/Shoppers12/Project/Shoppers12/Shoppers12/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/School/PXL/Graduaat/2GPROA/Web/Project/Shoppers12/Project/Shoppers12/Shoppers12/Views/OrderLines/Delete.cshtml]
+[C:/Github Repos/Shoppers12/Project/Shoppers12/Shoppers12/Views/OrderLines/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJMaW5lc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/School/PXL/Graduaat/2GPROA/Web/Project/Shoppers12/Project/Shoppers12/Shoppers12/Views/OrderLines/Edit.cshtml]
+[C:/Github Repos/Shoppers12/Project/Shoppers12/Shoppers12/Views/OrderLines/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJMaW5lc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/School/PXL/Graduaat/2GPROA/Web/Project/Shoppers12/Project/Shoppers12/Shoppers12/Views/OrderLines/Index.cshtml]
+[C:/Github Repos/Shoppers12/Project/Shoppers12/Shoppers12/Views/OrderLines/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJMaW5lc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/School/PXL/Graduaat/2GPROA/Web/Project/Shoppers12/Project/Shoppers12/Shoppers12/Views/Orders/Delete.cshtml]
+[C:/Github Repos/Shoppers12/Project/Shoppers12/Shoppers12/Views/Orders/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/School/PXL/Graduaat/2GPROA/Web/Project/Shoppers12/Project/Shoppers12/Shoppers12/Views/Orders/Details.cshtml]
+[C:/Github Repos/Shoppers12/Project/Shoppers12/Shoppers12/Views/Orders/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/School/PXL/Graduaat/2GPROA/Web/Project/Shoppers12/Project/Shoppers12/Shoppers12/Views/Orders/Index.cshtml]
+[C:/Github Repos/Shoppers12/Project/Shoppers12/Shoppers12/Views/Orders/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/School/PXL/Graduaat/2GPROA/Web/Project/Shoppers12/Project/Shoppers12/Shoppers12/Views/ProductCategories/Create.cshtml]
+[C:/Github Repos/Shoppers12/Project/Shoppers12/Shoppers12/Views/ProductCategories/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdENhdGVnb3JpZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/School/PXL/Graduaat/2GPROA/Web/Project/Shoppers12/Project/Shoppers12/Shoppers12/Views/ProductCategories/Delete.cshtml]
+[C:/Github Repos/Shoppers12/Project/Shoppers12/Shoppers12/Views/ProductCategories/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdENhdGVnb3JpZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/School/PXL/Graduaat/2GPROA/Web/Project/Shoppers12/Project/Shoppers12/Shoppers12/Views/ProductCategories/Details.cshtml]
+[C:/Github Repos/Shoppers12/Project/Shoppers12/Shoppers12/Views/ProductCategories/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdENhdGVnb3JpZXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/School/PXL/Graduaat/2GPROA/Web/Project/Shoppers12/Project/Shoppers12/Shoppers12/Views/ProductCategories/Edit.cshtml]
+[C:/Github Repos/Shoppers12/Project/Shoppers12/Shoppers12/Views/ProductCategories/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdENhdGVnb3JpZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/School/PXL/Graduaat/2GPROA/Web/Project/Shoppers12/Project/Shoppers12/Shoppers12/Views/ProductCategories/Index.cshtml]
+[C:/Github Repos/Shoppers12/Project/Shoppers12/Shoppers12/Views/ProductCategories/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdENhdGVnb3JpZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/School/PXL/Graduaat/2GPROA/Web/Project/Shoppers12/Project/Shoppers12/Shoppers12/Views/Products/Create.cshtml]
+[C:/Github Repos/Shoppers12/Project/Shoppers12/Shoppers12/Views/Products/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/School/PXL/Graduaat/2GPROA/Web/Project/Shoppers12/Project/Shoppers12/Shoppers12/Views/Products/Delete.cshtml]
+[C:/Github Repos/Shoppers12/Project/Shoppers12/Shoppers12/Views/Products/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/School/PXL/Graduaat/2GPROA/Web/Project/Shoppers12/Project/Shoppers12/Shoppers12/Views/Products/Details.cshtml]
+[C:/Github Repos/Shoppers12/Project/Shoppers12/Shoppers12/Views/Products/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/School/PXL/Graduaat/2GPROA/Web/Project/Shoppers12/Project/Shoppers12/Shoppers12/Views/Products/Edit.cshtml]
+[C:/Github Repos/Shoppers12/Project/Shoppers12/Shoppers12/Views/Products/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/School/PXL/Graduaat/2GPROA/Web/Project/Shoppers12/Project/Shoppers12/Shoppers12/Views/Products/Index.cshtml]
+[C:/Github Repos/Shoppers12/Project/Shoppers12/Shoppers12/Views/Products/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/School/PXL/Graduaat/2GPROA/Web/Project/Shoppers12/Project/Shoppers12/Shoppers12/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Github Repos/Shoppers12/Project/Shoppers12/Shoppers12/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/School/PXL/Graduaat/2GPROA/Web/Project/Shoppers12/Project/Shoppers12/Shoppers12/Views/_ViewImports.cshtml]
+[C:/Github Repos/Shoppers12/Project/Shoppers12/Shoppers12/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/School/PXL/Graduaat/2GPROA/Web/Project/Shoppers12/Project/Shoppers12/Shoppers12/Views/_ViewStart.cshtml]
+[C:/Github Repos/Shoppers12/Project/Shoppers12/Shoppers12/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/School/PXL/Graduaat/2GPROA/Web/Project/Shoppers12/Project/Shoppers12/Shoppers12/Views/Shared/_Layout.cshtml]
+[C:/Github Repos/Shoppers12/Project/Shoppers12/Shoppers12/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-2n6opa7h7e
